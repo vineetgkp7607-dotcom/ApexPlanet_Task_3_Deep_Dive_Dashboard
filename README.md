@@ -27,7 +27,6 @@ This project focuses on deep-dive sales analysis, customer segmentation, KPI cal
 * `powerbi/` - Interactive Power BI dashboard.
 * `reports/` - KPI results and customer segmentation reports.
 * `screenshots/` - Project screenshots.
-* `sql_queries/` - Reserved folder (SQL queries were not required for this task).
 
 ## Key Performance Indicators
 
