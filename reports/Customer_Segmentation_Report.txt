@@ -1,0 +1,21 @@
+CUSTOMER SEGMENTATION REPORT
+
+Total Customers Analyzed: 947
+
+Customer Segment Summary:
+
+1. Regular Customers: 463
+2. Recent Customers: 234
+3. Potential Loyalists: 202
+4. Champions: 38
+5. At Risk: 10
+
+KEY OBSERVATIONS:
+
+- Regular Customers form the largest customer segment.
+- Recent Customers represent customers with recent purchases.
+- Potential Loyalists have the potential to become loyal customers.
+- Champions are the most valuable and engaged customers.
+- At Risk customers may need special attention to encourage repeat purchases.
+
+Segmentation was performed using Recency, Frequency, and Monetary (RFM) scores.

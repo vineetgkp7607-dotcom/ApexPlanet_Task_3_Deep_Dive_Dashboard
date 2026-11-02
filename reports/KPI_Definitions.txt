@@ -1,0 +1,9 @@
+ Key Performance Indicators (KPIs)
+
+| No. | KPI                        | Formula                      |
+| --- | -------------------------- | ---------------------------- |
+| 1   | Total Revenue              | SUM(Total_Sales)             |
+| 2   | Total Orders               | COUNT(Order_ID)              |
+| 3   | Average Order Value (AOV)  | Total Revenue / Total Orders |
+| 4   | Total Customers            | COUNT(DISTINCT Customer_ID)  |
+| 5   | Average Quantity per Order | SUM(Quantity) / Total Orders |
